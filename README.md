@@ -17,6 +17,14 @@ It is designed for quick implementation support, community sharing, and stable v
 
 Runtime constraints + decision tree to prevent infinite agent loops. Printable checklist for pre-deployment + operational procedures.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/agents-loop-forever-how-to-stop.zip
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
