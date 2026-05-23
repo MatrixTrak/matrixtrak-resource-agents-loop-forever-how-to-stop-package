@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-05-23T11:14:27.413Z",
+  "resourceSlug": "agents-loop-forever-how-to-stop-package",
+  "title": "Loop guardrails checklist + decision framework",
+  "description": "Runtime constraints + decision tree to prevent infinite agent loops. Printable checklist for pre-deployment + operational procedures.",
+  "category": "AI Agents",
+  "pillar": "",
+  "canonicalResourceUrl": "https://matrixtrak.com/resources/agents-loop-forever-how-to-stop-package",
+  "primaryPostSlugs": [
+    "agents-loop-forever-how-to-stop"
+  ],
+  "secondaryRelatedPostSlugs": []
+}
